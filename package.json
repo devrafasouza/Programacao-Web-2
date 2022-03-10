@@ -1,0 +1,23 @@
+{
+  "name": "web2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devrafasouza/Programacao-Web-2.git"
+  },
+  "author": "Rafael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devrafasouza/Programacao-Web-2/issues"
+  },
+  "homepage": "https://github.com/devrafasouza/Programacao-Web-2#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
